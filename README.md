@@ -1,4 +1,4 @@
-# Webapi con .net core y EntityFramework
+# Webapi con .net core 6 y EntityFramework
 Api desarrollada en .net core con entity framework conectada a postgresql
 
 # Docker
